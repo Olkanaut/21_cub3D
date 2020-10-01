@@ -11,10 +11,10 @@ Mode: bonus cabaret
 
 
 START playing:
-- make bonus && ./cub3D data_neon.cub | *to start in Bonus Neon mode*
-- make cabaret && ./cub3D data_cabaret.cub | *to start in Bonus Cabaret mode*
-- make && ./cub3D data.cub | *to start in Bonus Neon mode(mandatory part)*
-- make bonus && ./cub3D data.cub | *to start in Bonus Neon Ghosts mode*
+- make bonus && ./cub3D data_neon.cub    |    *to start in Bonus Neon mode*
+- make cabaret && ./cub3D data_cabaret.cub    |    *to start in Bonus Cabaret mode*
+- make && ./cub3D data.cub    |    *to start in Bonus Neon mode(mandatory part)*
+- make bonus && ./cub3D data.cub    |    *to start in Bonus Neon Ghosts mode*
 
 PLAY:
 - use AWSD or ↑ and ↓ to navigate through the maze
