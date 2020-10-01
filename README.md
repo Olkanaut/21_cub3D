@@ -9,7 +9,7 @@ Regime bonus 1 || to compile: make bonus && ./cub3D data_neon.cub
 
 
 Regime bonus 2 || to compile: make cabaret && ./cub3D data_cabaret.cub
-![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire1.png?token=AJK7TESPN5X5C2L5O352ZUC7OYD7O)
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire1.png?token=AJK7TEQQ7UW6D6REU3NZ2HC7OYFZI)
 
 Regimes:
 - mandatory
