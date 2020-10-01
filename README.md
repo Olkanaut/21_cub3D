@@ -10,6 +10,9 @@ To play:
 - make bonus && ./cub3D data_neon.cub
 - make cabaret && ./cub3D data_cabaret.cub
 
+
+![alt text](https://i.imgur.com/8ULlqby.png)
+
 ![alt text](https://drive.google.com/file/d/1vK4tS3qif6Vk6q0PBGGBcU73eILLa7xX/view)
 
 
