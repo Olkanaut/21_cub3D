@@ -39,3 +39,10 @@ to compile: make bonus && ./cub3D data.cub
 
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire2.png?token=AJK7TEQE4R4KNURFSIZMY6K7OYEAU)
 to compile: make cabaret && ./cub3D data_cabaret.cub
+
+
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon1.png?token=AJK7TEW7UQQMJ2O7LE4TM3C7OYDWA)
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire1.png?token=AJK7TESPN5X5C2L5O352ZUC7OYD7O)
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon2.png?token=AJK7TEXD554O4O445ZAZL4C7OYD2S)
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/ghost1.png?token=AJK7TET7XVTNNNJDCNE3HDS7OYD5C)
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire2.png?token=AJK7TEQE4R4KNURFSIZMY6K7OYEAU)
