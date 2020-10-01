@@ -29,11 +29,12 @@ To start playing:
 
 
 More pictures:
-![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon2.png?token=AJK7TEUSZY4ADRI4GHGOYAS7OYGIU)
-to compile: make bonus && ./cub3D data_neon.cub
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/ghost1.png?token=AJK7TETDYKXMEUPYO63BZEK7OYGMI)
 to compile: make bonus && ./cub3D data.cub
 
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire2.png?token=AJK7TEU44IB4UKWY4645E7C7OYGNS)
 to compile: make cabaret && ./cub3D data_cabaret.cub
+
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon2.png?token=AJK7TESR4CENUTLQMWX32OK7OYG6G)
+to compile: make bonus && ./cub3D data_neon.cub
 
