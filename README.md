@@ -2,7 +2,7 @@
 
 The goal was to make a dynamic view inside a maze, in which the player should find a way.
 
-![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon1.png?token=AJK7TETNTHWLQV4D3RDYRHS7OYGFI)
+![alt text](https://github.com/Olkanaut/21_cub3D/blob/master/rendered_scenes/fire1.png?raw=true)
 Regime: bonus neon
 
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire1.png?token=AJK7TEVAEUC4O5YRCI55W427OYGQK)
