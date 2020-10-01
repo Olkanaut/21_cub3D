@@ -1,0 +1,22 @@
+R   10000   50000
+
+F    166  ,   185 ,191
+C    200,236,225
+
+NO     ./textures/neon/1.xpm
+SO  ./textures/neon/2.xpm
+
+EA   ./textures/neon/5.xpm
+S ./textures/sprite/ghost.xpm
+WE   ./textures/neon/4.xpm
+
+  1111  111
+  10001100011
+  100011012101
+ 1111020000201
+10000002100001
+1001100000N001
+10020000011011
+11000200011001
+ 1100000001101
+ 111111111111

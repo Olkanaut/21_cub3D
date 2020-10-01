@@ -1,0 +1,21 @@
+R   1600    900
+
+F 40,    47, 107
+C    200,236,225
+
+
+NO     ./textures/neon/13+.xpm
+SO  ./textures/neon/18.xpm
+
+EA   ./textures/neon/15.xpm
+S ./textures/sprite/cabaret.xpm
+WE   ./textures/neon/18+.xpm
+
+   1111  111
+   10001100211
+  10200110100211
+11101100020000001
+110E2000100010001
+1200102002020001
+1110020121011001
+  1111111 1  11
