@@ -31,9 +31,6 @@ To start playing:
 More pictures:
 
 
-![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon2.png?token=AJK7TESR4CENUTLQMWX32OK7OYG6G)
-to compile: make bonus && ./cub3D data_neon.cub
-
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire2.png?token=AJK7TEUYLL7R5TMMY5P7R5K7OYHDM)
-
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon2.png?token=AJK7TESR4CENUTLQMWX32OK7OYG6G)
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/ghost1.png?token=AJK7TEUIGN3JN7BFS3AV2IC7OYHGW)
