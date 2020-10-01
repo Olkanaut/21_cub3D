@@ -13,7 +13,7 @@ To play:
 
 ![alt text](https://i.imgur.com/8ULlqby.png)
 
-![alt text](https://drive.google.com/file/d/1vK4tS3qif6Vk6q0PBGGBcU73eILLa7xX/view)
+![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon1.png?token=AJK7TEW7UQQMJ2O7LE4TM3C7OYDWA)
 
 
 
