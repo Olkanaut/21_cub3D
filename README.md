@@ -1,6 +1,6 @@
 # 21_cub3D
 
-The goal was to make a dynamic view inside a maze, in which the player should find a way.
+The goal was to make a dynamic view inside a maze, in which the player should find a way. As a bonus part I implemented multiple regimes and added some features to enhance the experience: wall and object collisions, a skybox, music, HUD, ability to pick up objects and a 'weapon' (a scoop net). 
 
 ![alt text](rendered_scenes/neon1.png)
 Regime: bonus neon
