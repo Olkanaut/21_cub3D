@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   draw_utils.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bshang <bshang@student.21-school.ru>       +#+  +:+       +#+        */
+/*   By: bshang <bshang@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/09/17 11:20:02 by bshang            #+#    #+#             */
-/*   Updated: 2020/09/18 12:48:08 by bshang           ###   ########.fr       */
+/*   Updated: 2020/10/01 18:20:52 by bshang           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	put_sc_pxl(t_head *h, void *ptr, double p[2], UI color)
 	int		j;
 	double	sc;
 
-	sc = (color == C6 || color == C3) ? 6 : h->im->plan_scale;
+	sc = (color == C6 || color == C3 || color == C12) ? 6 : h->im->plan_scale;
 	i = p[1];
 	while (i < p[1] + sc)
 	{

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   draw_plan.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bshang <bshang@student.21-school.ru>       +#+  +:+       +#+        */
+/*   By: bshang <bshang@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/26 15:47:25 by bshang            #+#    #+#             */
-/*   Updated: 2020/09/21 19:18:50 by bshang           ###   ########.fr       */
+/*   Updated: 2020/10/01 18:20:41 by bshang           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -72,7 +72,8 @@ static void		draw_sprites_on_plan(t_head *h)
 		h->sp_ar[k - 1].x + 0.5 * h->im->plan_scale * (1 - 1 / t);
 		p[1] = h->sp_ar[k - 1].y * h->im->plan_scale + P_OFF *
 		h->sp_ar[k - 1].y + 0.5 * h->im->plan_scale * (1 - 1 / t);
-		put_sc_pxl(h, h->w_a, p, C3);
+		h->scan->bonus_f == 1 ? put_sc_pxl(h, h->w_a, p, C3) : 
+		put_sc_pxl(h, h->w_a, p, C12);
 		k--;
 	}
 }
@@ -93,9 +94,9 @@ void			draw_plan(t_head *h)
 		* (h->scan->map_size[0] - 1))
 		{
 			if (is_obj(h->map[y][x]) > 0)
-				put_sc_pxl(h, h->w_a, p, C2);
+				h->scan->bonus_f == 1 ? put_sc_pxl(h, h->w_a, p, C2) : put_sc_pxl(h, h->w_a, p, C10);
 			else
-				put_sc_pxl(h, h->w_a, p, C1);
+				h->scan->bonus_f == 1 ? put_sc_pxl(h, h->w_a, p, C1) : put_sc_pxl(h, h->w_a, p, C11);
 			p[0] += h->im->plan_scale + P_OFF;
 			x++;
 		}

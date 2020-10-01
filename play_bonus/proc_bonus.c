@@ -6,7 +6,7 @@
 /*   By: bshang <bshang@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/20 20:41:48 by bshang            #+#    #+#             */
-/*   Updated: 2020/09/21 22:24:07 by bshang           ###   ########.fr       */
+/*   Updated: 2020/10/01 17:58:58 by bshang           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,7 +28,7 @@ int		close_event(void *var)
 	vars = (t_w *)var;
 	mlx_clear_window(vars->mlx_ptr, vars->win_ptr);
 	mlx_destroy_window(vars->mlx_ptr, vars->win_ptr);
-	// system("killall afplay");
+	system("killall afplay");
 	exit(0);
 	return ('a');
 }
@@ -79,8 +79,8 @@ int		draw_window(t_head *head)
 
 int		play(t_head *h)
 {
-	// if (h->scan->bonus_f == 1 && h->scan->save_f != 1)
-	// 	system(PATH_MUS);
+	if (h->scan->bonus_f > 0 && h->scan->save_f != 1)
+		system(PATH_MUS);
 	h->w = &(t_w){(V*)0, (V*)0, (V*)0, (V*)0, 0, 0, 0, {0, 0}};
 	h->w_a = &(t_w){(V*)0, (V*)0, (V*)0, (V*)0, 0, 0, 0, {0, 0}};
 	h->w_p = &(t_w){(V*)0, (V*)0, (V*)0, (V*)0, 0, 0, 0, {0, 0}};

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cub_header.h                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bshang <bshang@student.21-school.ru>       +#+  +:+       +#+        */
+/*   By: bshang <bshang@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/04 16:31:56 by bshang            #+#    #+#             */
-/*   Updated: 2020/09/21 19:25:20 by bshang           ###   ########.fr       */
+/*   Updated: 2020/10/01 18:51:24 by bshang           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,7 +34,7 @@
 # define FOV_V 10.
 # define SC 300.
 # define WALL_HEIGHT 80.
-# define SPRITE_SIZE_COEF 0.2
+# define SPRITE_SIZE_COEF 0.41
 # define STEP_ROT 5.
 # define STEP_MOVE 0.1
 # define RAY_FARTHEST_POINT 20.
@@ -50,15 +50,18 @@
 # define PATH_SKY_C "/Users/bshang/ololo/cub/textures/sky/curtains.xpm"
 # define PATH_MUS "afplay music/Burial-Street_Halo_cut1.mp3&"
 # define PATH_MUS_C "afplay music/Cabaret_1972.mp3&"
-# define C1 0xE25F1D
-# define C2 0x31C0EC
-# define C3 0x6c4cc7
-# define C4 0xf2ef88
-# define C5 0x0f0b3b
-# define C6 0xbd1108
-# define C7 0xc8ecf7
-# define C8 0x565669
-# define C9 0xf7f7f7
+# define C1 0x4654b3 // walls // 0xE25F1D //orange
+# define C2 0xb4c8cf // void // 0x31C0EC //blue
+# define C3 0xbf3db0 // violet, only for sprites (1) // 0x6c4cc7 // 
+# define C4 0xf2ef88 // yellow
+# define C5 0x0f0b3b // indigo
+# define C6 0xbd1108 // bold red, only for player
+# define C7 0xc8ecf7 //light blue
+# define C8 0x565669 //floor
+# define C9 0xf7f7f7 // light gray
+# define C10 0xd7ddde // void (c)
+# define C11 0x4f020a // walls (c)
+# define C12 0x77ab07 // only for sprites (c)
 
 typedef struct	s_l
 {
