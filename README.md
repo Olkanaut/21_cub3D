@@ -5,7 +5,7 @@ The goal was to make a dynamic view inside a maze, in which the player should fi
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/neon1.png?token=AJK7TEU3UUPBABIFRV6EVPK7OYG4C)
 Regime: bonus neon
 
-![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/fire1.png?token=AJK7TEVAEUC4O5YRCI55W427OYGQK)
+![alt text](rendered_scenes/fire1.png)
 Regime: bonus cabaret
 
 Regimes:
