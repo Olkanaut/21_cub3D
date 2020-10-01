@@ -29,6 +29,8 @@ To start playing:
 
 
 More pictures:
+
+
 ![alt text](https://raw.githubusercontent.com/Olkanaut/21_cub3D/master/rendered_scenes/ghost1.png?token=AJK7TETDYKXMEUPYO63BZEK7OYGMI)
 to compile: make bonus && ./cub3D data.cub
 
