@@ -1,7 +1,7 @@
 # 21_cub3D
 
 The goal was to make a dynamic view inside a maze, in which the player should find a way. The mandatory part of a subject required building up a 3d view of the maze based in a given 2d plan using raycasting algorythm. The walls should be texturized according their orientation.
-As a bonus part I implemented multiple regimes and added some features to enhance a player's experience: wall and object collisions, a skybox, music, HUD, ability to pick up objects and to count them and a 'weapon' (a scoop net and a hand:). 
+As a bonus part I implemented multiple regimes and added some features to enhance a player's experience: wall and object collisions, a skybox, music, HUD, ability to pick up objects and to display the count of picked ones and a 'weapon' (a scoop net and a hand:). 
 
 ![alt text](rendered_scenes/neon1.png)
 Regime: bonus neon
