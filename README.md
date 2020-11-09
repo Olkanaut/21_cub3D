@@ -3,6 +3,15 @@
 The goal was to make a dynamic view inside a maze, in which the player should find a way. The mandatory part of a subject required building up a 3d view of the maze based in a given 2d plan using raycasting algorythm. The walls should be texturized according their orientation.
 As a bonus part I implemented multiple regimes and added some features to enhance a player's experience: wall and object collisions, a skybox, music, HUD, ability to pick up objects and to display the count of picked ones and a 'weapon' (a scoop net and a hand:). 
 
+START playing:
+make bonus && ./cub3D data_neon.cub     OR     make cabaret && ./cub3D data_cabaret.cub
+
+KEYS:
+- use AWSD or ↑ and ↓ to navigate through the maze
+- use QE or ← and → to rotate the view
+
+
+
 ![alt text](rendered_scenes/neon1.png)
 Mode: bonus neon
 
@@ -10,28 +19,12 @@ Mode: bonus neon
 Mode: bonus cabaret
 
 
-START playing:
-- make bonus && ./cub3D data_neon.cub    |    *to start in Bonus Neon mode*
-- make cabaret && ./cub3D data_cabaret.cub    |    *to start in Bonus Cabaret mode*
-- make && ./cub3D data.cub    |    *to start in Bonus Neon mode(mandatory part)*
-- make bonus && ./cub3D data.cub    |    *to start in Bonus Neon Ghosts mode*
 
-PLAY:
-- use AWSD or ↑ and ↓ to navigate through the maze
-- use QE or ← and → to rotate the view
-
-Regimes:
-- mandatory || to compile: make && ./cub3D data.cub
-- bonus (neon) || to compile: make bonus && ./cub3D data_neon.cub or make bonus && ./cub3D data.cub
-- bonus (cabaret) || to compile: make cabaret && ./cub3D data_cabaret.cub
-
-Bonuses:
-+
-+
-+
-
-
-
+Available MODES:
+- Bonus Neon mode:            make bonus && ./cub3D data_neon.cub
+- Bonus Cabaret mode:         make cabaret && ./cub3D data_cabaret.cub
+- Bonus Ghostbusters mode:    make bonus && ./cub3D data.cub
+- Neon mode(mandatory part):  make && ./cub3D data.cub
 
 More pictures:
 
