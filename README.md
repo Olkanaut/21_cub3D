@@ -32,3 +32,4 @@ More pictures:
 ![alt text](rendered_scenes/ghost1.png)
 ![alt text](rendered_scenes/neon2.png)
 
+P.S. tributes to @Kwillum (Enedys :)
