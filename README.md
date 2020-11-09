@@ -25,10 +25,10 @@ More pictures:
 ![alt text](rendered_scenes/neon2.png)
 
 
-Available MODES:
+Compile other available MODES:
 - Bonus Neon mode:            make bonus && ./cub3D data_neon.cub
 - Bonus Cabaret mode:         make cabaret && ./cub3D data_cabaret.cub
 - Bonus Ghostbusters mode:    make bonus && ./cub3D data.cub
 - Neon mode(mandatory part):  make && ./cub3D data.cub
 
-P.S. tributes to @Kwillum (Enedys :)
+P.S. tributes to @Kwillum = Enedys 🙌 
