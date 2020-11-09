@@ -18,6 +18,11 @@ Mode: bonus neon
 ![alt text](rendered_scenes/fire1.png)
 Mode: bonus cabaret
 
+More pictures:
+
+![alt text](rendered_scenes/fire2.png)
+![alt text](rendered_scenes/ghost1.png)
+![alt text](rendered_scenes/neon2.png)
 
 
 Available MODES:
@@ -25,11 +30,5 @@ Available MODES:
 - Bonus Cabaret mode:         make cabaret && ./cub3D data_cabaret.cub
 - Bonus Ghostbusters mode:    make bonus && ./cub3D data.cub
 - Neon mode(mandatory part):  make && ./cub3D data.cub
-
-More pictures:
-
-![alt text](rendered_scenes/fire2.png)
-![alt text](rendered_scenes/ghost1.png)
-![alt text](rendered_scenes/neon2.png)
 
 P.S. tributes to @Kwillum (Enedys :)
